@@ -7,6 +7,19 @@ menu:
   Kontakt: /contact
   Github: 
     url: https://github.com/danlucas84/hexo-blog-dan
+    icon: github
+  Twitter:
+      url: https://twitter.com
+      icon: twitter
+  YouTube:
+      url: https://youtube.com
+      icon: youtube
+  Facebook:
+      url: https://facebook.com/
+      icon: facebook
+  TikTok:
+      url: https://tiktok.com
+      icon: tiktok
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: Home
