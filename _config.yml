@@ -1,15 +1,17 @@
 # Header
 menu:
+  menu: 
+
   Home: /
-  Archives: /archives
-  Tags: /tags
-  Categories: /categories
-  Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
-    icon: github
+  O nas: /about/
+  Kategorie: /categories
+  Tagi: /tags/
+  Kontakt: /contact
+  Github: 
+    url: https://github.com/danlucas84/hexo-blog-dan
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: Home
 
 # URL of the Home page image
 index_cover: img/home-bg.jpg
